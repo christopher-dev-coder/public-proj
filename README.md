@@ -1,0 +1,2 @@
+# public-proj
+Welcome to my Public Projects Repository! This is a curated collection of my personal and collaborative projects, showcasing my skills and interests in software development, data science, web development, etc. Here, you'll find a variety of projects ranging from web applications, machine learning models, automation scripts, etc.
